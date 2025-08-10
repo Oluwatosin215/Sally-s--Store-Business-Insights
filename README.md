@@ -33,6 +33,8 @@ Regions Driving Sales: Kano, Enugu, Port
 
 Trend: Revenue peaked Q2 2025, strong growth from mid-2024.
 
+<img width="500" height="200" alt="Screenshot 2025-08-10 213332" src="https://github.com/user-attachments/assets/cf824802-7c9b-45f5-8e47-3867f0e40db7" />
+
 
 ### Page 2 – Customer Behavior
 Gender Split: Male 52%, Female 48% (Revenue share matches exactly)
@@ -42,6 +44,8 @@ Top Age Groups: 18–25, 26–35 (young professionals & parents)
 Regional Spend:
  * Lagos – Women spend more
  * Kano – Men dominate, esp. Household Items
+   
+<img width="500" height="200" alt="Screenshot 2025-08-10 213409" src="https://github.com/user-attachments/assets/178c0437-7a5a-496c-b2d0-a3c8dcacbceb" />
 
 
 ### Page 3 – Delivery Performance
@@ -53,6 +57,7 @@ Seasonal Spike in Failures: Nov–Jan (festive season logistic strain)
 
 Payment Trends: Cash & Online dominate, POS & Cash evenly used
 
+<img width="500" height="200" alt="Screenshot 2025-08-10 213434" src="https://github.com/user-attachments/assets/62c5bfe9-c465-47a4-80a7-df3049124cd5" />
 
 ### Page 4 – Customer Feedback
 Average Review Score: 3.74/5
@@ -62,6 +67,10 @@ Top Products: Pepsi, Mosquito Net, Sponge
 Low-rated Categories: Shampoo, Light Bulb, Milo
 
 Action Point: Investigate suppliers / drop poor quality items
+
+<img width="500" height="200" alt="Screenshot 2025-08-10 213451" src="https://github.com/user-attachments/assets/59be9982-604b-43f8-ae7d-3f38838170ad" />
+
+
 
 ### Recommendations
 1. Improve delivery logistics in Kano & Port Harcourt
