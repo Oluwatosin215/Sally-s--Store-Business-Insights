@@ -19,6 +19,12 @@ Period Covered: 2024–2025.
 
 Key Columns: OrderID, ProductName, ProductCategory, Region, TotalAmount, Quantity, CustomerGender, CustomerAge, DeliveryStatus, PaymentMethod, ReviewScore, etc.
 
+ ## Tools used and their purpose
+  * Excel: Data cleaning  
+  * Power BI: Dashboard creation & visual storytelling 
+                               
+
+
 ## Key Insights
 ### Page 1 – Sales Performance
 Total Revenue: ₦8.08M
@@ -78,11 +84,6 @@ Action Point: Investigate suppliers / drop poor quality items
 3. Target 18–35 age group with marketing
 4. Audit supplier quality for low-rated items
 5. Plan for festive season logistics surge
-
-| Tool                         | Purpose                                  |
-| ---------------------------- | ---------------------------------------- |
-| **Power BI**                 | Dashboard creation & visual storytelling |
-| **Excel**                    | Data cleaning                            |
 
 
 
